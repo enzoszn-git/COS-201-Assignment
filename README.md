@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # COS 201 - Computer Programming I
 
 # AROWOLO OLABANJI ISAIAH
