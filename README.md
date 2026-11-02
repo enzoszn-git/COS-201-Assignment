@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COS 201 - Computer Programming I
 
 # AROWOLO OLABANJI ISAIAH
@@ -49,3 +50,7 @@ java ItemCost
 ### Testing
 
 All three programs should be tested with different valid inputs to verify that their results match the expected calculations.
+=======
+# COS-201-Assignment
+This is the solution to the  COS 201 assignmet for arowolo olabanji isaiah 25/18085
+>>>>>>> fb3c09ddeb2c483eee020e658c5e2e88ec294408
